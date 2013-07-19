@@ -1,0 +1,12 @@
+C:\Users\kinoshita.yoshio\AppData\Local\Temporary Projects\iTextSharpTest\bin\Debug\template\mytemplate.pdf
+C:\Users\kinoshita.yoshio\AppData\Local\Temporary Projects\iTextSharpTest\bin\Debug\iTextSharpTest.exe
+C:\Users\kinoshita.yoshio\AppData\Local\Temporary Projects\iTextSharpTest\bin\Debug\iTextSharpTest.pdb
+C:\Users\kinoshita.yoshio\AppData\Local\Temporary Projects\iTextSharpTest\bin\Debug\iTextSharpTest.xml
+C:\Users\kinoshita.yoshio\AppData\Local\Temporary Projects\iTextSharpTest\bin\Debug\itextsharp.dll
+C:\Users\kinoshita.yoshio\AppData\Local\Temporary Projects\iTextSharpTest\bin\Debug\itextsharp.xml
+C:\Users\kinoshita.yoshio\AppData\Local\Temporary Projects\iTextSharpTest\obj\Debug\iTextSharpTest.Form1.resources
+C:\Users\kinoshita.yoshio\AppData\Local\Temporary Projects\iTextSharpTest\obj\Debug\iTextSharpTest.Resources.resources
+C:\Users\kinoshita.yoshio\AppData\Local\Temporary Projects\iTextSharpTest\obj\Debug\iTextSharpTest.vbproj.GenerateResource.Cache
+C:\Users\kinoshita.yoshio\AppData\Local\Temporary Projects\iTextSharpTest\obj\Debug\iTextSharpTest.exe
+C:\Users\kinoshita.yoshio\AppData\Local\Temporary Projects\iTextSharpTest\obj\Debug\iTextSharpTest.xml
+C:\Users\kinoshita.yoshio\AppData\Local\Temporary Projects\iTextSharpTest\obj\Debug\iTextSharpTest.pdb
